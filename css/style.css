@@ -1,0 +1,189 @@
+body{
+height: 2000px;
+    background-image: url(../image/back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title1{
+    text-align: center;
+    font-size: 42px;
+    padding-top: 40px;
+    color:bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.div1{
+    background-image: url(../image/0bd71cae-633d-4096-a623-fb3607ff3092.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    -webkit-border-radius: 60%;
+    -moz-border-radius: 60%;
+    -ms-border-radius: 60%;
+    -o-border-radius: 60%;
+    animation-name: pic1;
+    animation-duration: 3s;
+    position: absolute;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    margin-top: -20px;
+    left: 50px;
+    animation-delay:2s;
+    
+
+}
+
+@keyframes pic1{
+    0%{  left: 0px; }
+100%{ left: 1140px;}
+
+}
+
+.div2{
+    background-image: url(../image/0d504603-7822-42b1-83e0-7a17ecf93908.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    -webkit-border-radius: 60%;
+    -moz-border-radius: 60%;
+    -ms-border-radius: 60%;
+    -o-border-radius: 60%;
+    animation-name: pic1;
+    animation-duration: 3s;
+    position: absolute;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    animation-direction: reverse;
+    animation-delay: 5s;
+    margin-top: 140px;
+    right: 50px;
+}
+
+@keyframes pic1{
+    0%{  left: 0px; }
+100%{ left: 1140px;}
+}
+
+.div3{
+    background-image: url(../image/new3.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    -webkit-border-radius: 60%;
+    -moz-border-radius: 60%;
+    -ms-border-radius: 60%;
+    -o-border-radius: 60%;
+    animation-name: pic1;
+    animation-duration: 3s;
+    position: absolute;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    margin-top: 300px;
+    left: 50px;
+    animation-delay: 8s;
+    
+
+}
+
+@keyframes pic1{
+    0%{  left: 0px; }
+100%{ left: 1140px;}
+
+}
+
+.div4{
+    background-image: url(../image/new1.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    -webkit-border-radius: 60%;
+    -moz-border-radius: 60%;
+    -ms-border-radius: 60%;
+    -o-border-radius: 60%;
+    animation-name: pic1;
+    animation-duration: 3s;
+    position: absolute;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    animation-direction: reverse;
+    animation-delay: 11s;
+    margin-top: 460px;
+    right: 50px;
+}
+
+@keyframes pic1{
+    0%{  left: 0px; }
+100%{ left: 1140px;}
+}
+
+
+.div5{
+    background-image: url(../image/new4.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    -webkit-border-radius: 60%;
+    -moz-border-radius: 60%;
+    -ms-border-radius: 60%;
+    -o-border-radius: 60%;
+    animation-name: pic1;
+    animation-duration: 3s;
+    position: absolute;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    margin-top: 620px;
+    left: 50px;
+    animation-delay: 14s;
+    
+
+}
+
+@keyframes pic1{
+    0%{  left: 0px; }
+100%{ left: 1140px;}
+
+}
+
+.div6{
+    background-image: url(../image/cc45d813-9668-4b17-aef5-b1a2817c3c5f.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 60%;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+    animation-name: pic1;
+    animation-duration: 3s;
+    position: absolute;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    animation-direction: reverse;
+    animation-delay: 18s;
+    margin-top: 780px;
+    right: 50px;
+}
+
+@keyframes pic1{
+    0%{  left: 0px; }
+100%{ left: 1140px;}
+}
+
+
+
+
+
+
